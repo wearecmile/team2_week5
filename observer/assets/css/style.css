@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    font-family: Arial, sans-serif;
+    width: 100%;
+    height: 100vh;
+    background: url('../number-system.jpg');
+    background-size: cover;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.bookshelf {
+    padding: 20px;
+    margin: 30px auto;
+}
+
+.book {
+    margin-bottom: 10px;
+}
+
+.height-auto {
+    background: #fff;
+    box-shadow: 2px 2px 10px #d2dae2;
+    height: 500px;
+    margin: 50px 40px 40px 40px;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+.border-radius {
+    border-radius: 20px;
+}
+
+.text-color {
+    color: #34495e;
+}
